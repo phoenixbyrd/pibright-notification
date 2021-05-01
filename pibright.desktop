@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Brightness
+Comment=PiBright
+Exec=/usr/local/bin/pibright.sh
+Icon=display-brightness-symbolic
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Settings;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;
